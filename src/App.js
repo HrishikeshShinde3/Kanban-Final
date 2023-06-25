@@ -1,13 +1,6 @@
 
-
-
-
-
-
 import React, { useEffect, useState } from "react";
-
 import Board from "./components/Board/Board";
-
 import "./App.css";
 import Editable from "./components/Editabled/Editable";
 import Navbar from "./components/Navbar/Navbar";
